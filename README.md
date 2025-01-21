@@ -17,7 +17,7 @@ Mastery of a particular programming language is a very useful side effect of CS 
 ### Useful links
 
 - [Course Website (2020 summer)](https://inst.eecs.berkeley.edu/~cs61a/su20/)
-- [Textbook (SICP for python)](https://www.composingprograms.com/) 
+- [Textbook (SICP for python)](https://www.composingprograms.com/) [中文版](https://composingprograms.netlify.app/1/1)
 
 - [Online editor (support scheme, SQL and python)](https://code.cs61a.org)
 
